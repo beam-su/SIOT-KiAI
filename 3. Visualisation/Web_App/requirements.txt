@@ -1,0 +1,10 @@
+streamlit
+pandas
+influxdb-client
+numpy
+boto3
+botocore
+opencv-python
+joblib
+scikit-learn
+scipy
