@@ -1,7 +1,7 @@
 # KiAI: An IoT Based Kendo Training Assistant for Real-Time Motion Analysis
 The main repository for Sensing and the Internet of Things project, by Beam Suwiwatchai.
 
-[Youtube](https://youtu.be/1dko0bqK9uo)
+[Youtube](https://youtu.be/nLtwH57EI44)
 
 ## Abstract
 Kendo, a traditional Japanese martial art emphasising the unity of spirit, sword, and body (*Ki-Ken-Tai-Ichi*), requires practitioners to develop precise coordination and control. However, refining these skills often depends on expert guidance, which may not always be accessible. This means that solo-practitioners lack tools that offers personalised, driven insights, particularly regarding motion smoothness and classification of kendo techniques. This gap highlights the need for a system that can provide actionable feedback while respecting kendo's principles of focus and discipline. 
@@ -40,7 +40,7 @@ Here's the breakdown of each file in this repository and its purpose:
 - Hardware:
     - [ESP32 DevKitV1 Microcontroller](https://www.amazon.co.uk/dp/B08DR5T897?ref=ppx_yo2ov_dt_b_fed_asin_title)
     - [ESP32 CAM + OV2640 camera](https://www.aliexpress.com/item/1005006501528278.html)
-    - Arduino Nano Every
+    - [Arduino Nano Every](https://store.arduino.cc/products/arduino-nano-every)
     - [MPU6500](https://www.aliexpress.com/item/1005004137491653.html)
     - [DHT11](https://www.amazon.co.uk/dp/B07DK8MVNX?ref=ppx_yo2ov_dt_b_fed_asin_title)
     - [Microphone](https://www.amazon.co.uk/dp/B07Q1BYDS7?ref=ppx_yo2ov_dt_b_fed_asin_title)
